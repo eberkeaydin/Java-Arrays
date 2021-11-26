@@ -1,6 +1,6 @@
 package OopPractise;
 
-public class DrawingA {
+public class DrawingEight {
     public static void main(String[] args){
         String[][] letterArray = new String[7][5];
 
